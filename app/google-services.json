@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "76759477103",
+    "firebase_url": "https://danismanchat2.firebaseio.com",
+    "project_id": "danismanchat2",
+    "storage_bucket": "danismanchat2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76759477103:android:1469391192abbb57",
+        "android_client_info": {
+          "package_name": "com.example.hugo.danismanchat2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76759477103-s8j35ct99nabji2sngl33iq6dkro6b8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hugo.danismanchat2",
+            "certificate_hash": "f025f3b97cc79ba264f0b26925c03ea12fb3352b"
+          }
+        },
+        {
+          "client_id": "76759477103-1v9k7nbigo0d3lqefl7crs1pnobv6c9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hugo.danismanchat2",
+            "certificate_hash": "acea3ddd5f252daabb603f94aefa0d8af972f849"
+          }
+        },
+        {
+          "client_id": "76759477103-nj30phad0sp94d8ctq14q4i1b0e2tbba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrFn0GGnPq67x_MT5VVYvNY3StMW6esuE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76759477103-nj30phad0sp94d8ctq14q4i1b0e2tbba.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "76759477103-uefk0vvmgb5ur6chvt9tv6tr2ccbb1nh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.orwell.bilenedanis"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

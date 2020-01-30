@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DanismanChat2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stedi_iniz_dan_manl_k_t_r_n_a_a_dan_se_ebilirsiniz">İstediğiniz Danışmanlık Türünü Aşağıdan Seçebilirsiniz</string>
+    <string name="uzman_doktor">Uzman Doktor</string>
+
+    <string name="diyetisyen">Diyetisyen</string>
+
+    <string name="facebook_app_id">265475731029275</string>
+    <string name="fb_login_protocol_scheme">fb265475731029275</string>
+
+
+</resources>

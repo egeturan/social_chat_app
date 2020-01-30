@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".MainController">
+
+
+    <Button
+        android:id="@+id/buttonC1"
+        android:layout_width="272dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="17dp"
+        android:layout_marginTop="360dp"
+        android:background="@android:color/holo_green_light"
+        android:text="Facebook'la Giriş"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@android:color/background_light"
+        android:textSize="19sp"
+
+        android:textStyle="bold" />
+
+
+    <Button
+        android:id="@+id/buttonC2"
+        android:layout_width="272dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/buttonC1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="17dp"
+        android:background="@drawable/buttons"
+        android:text="Telefon Numarası ile Giriş"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@android:color/background_light"
+        android:textSize="19sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/buttonC3"
+        android:layout_width="272dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/buttonC2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="17dp"
+        android:background="@color/colorPrimaryDark"
+        android:text="Giriş Yap"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@android:color/background_light"
+        android:textSize="19sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/buttonC4"
+        android:layout_width="272dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/buttonC3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="17dp"
+        android:layout_marginTop="-4dp"
+        android:layout_marginEnd="17dp"
+        android:background="@android:color/holo_blue_bright"
+        android:text="Kayıt Ol"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@android:color/background_light"
+        android:textSize="19sp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>
